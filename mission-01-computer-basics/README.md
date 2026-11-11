@@ -1,20 +1,27 @@
-## Task 1.1 
+# Mission 1 — Know your computer
 
-- Stage           What happens in your example?               Possible hardware/component
+## 1. Task / objective
+Explain how a computer receives input, processes information, produce output and stores results. Identify hardware, software and computer-based systems.
 
-- Input           I typed the text                            Keyboard
-- Processing      The computer processes the text             CPU and memory
-- Output          The text appears on the screen              Screen
-- Storage         I saved the document for later changes      SSD
+## 2. Work completed
 
-## Task 1.2
+### Task 1.1 - Trace one activity using IPOS
 
-- Item/software name   Hardware/Software?   Software type          Purpose
+| Stage | What happens in your example? | Possible hardware/component |
+|---|---|---|
+| Input | I typed the text | Keyboard |
+| Processing | The computer processes the text | CPU and memory |
+| Output | The text appears on the screen | Screen |
+| Storage | I saved the document for later changes | SSD |
 
-- CPU                  Hardware             Not applicable         Executing computer tasks
-- RAM                  Hardware             Not applicable         Stores temporary memory
-- SSD                  Hardware             Not applicable         Stores files
-- Projector            Hardware             Not applicable         Display information
+### Task 1.2 - Identify hardware and software
+
+|Item/software name |Hardware/Software? | Software type Purpose |
+| --- | --- | --- |
+| CPU | Hardware | Not applicable | Executing computer tasks |
+| RAM | Hardware | Not applicable | Stores temporary memory |
+| SSD | Hardware | Not applicable | Stores files |
+| Projector | Hardware | Not applicable | Display information |
 - Linux                Software             Operating system       Manages computer resources
 - Microsoft            Software             Application saoftware    Create & modify documents
 - Firefox              Software             Application saoftware    Browse websites
