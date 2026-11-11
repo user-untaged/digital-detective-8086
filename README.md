@@ -1,1 +1,18 @@
-# digital-detective-8086
+# digital-detective-8086THE DIGITAL DETECTIVE 
+The Digital Detective
+
+This project is part of my Diwali Independent Learning Assignment.
+I will explore my computerby building a mini system report 
+
+Mission Index
+[Mission 0 — Setup](mission-00-setup/README.md)
+[Mission 1 — Computer Basics](mission-01-computer-basics/README.md)
+[Mission 2 — Terminal](mission-02-terminal/README.md)
+[Mission 3 — Operating System](mission-03-operating-system/README.md)
+[Mission 4 — Programs](mission-04-programs/README.md)
+[Mission 5 — Numbers and Data](mission-05-numbers-data/README.md)
+[Mission 6 — Git and GitHub](mission-06-git-github/README.md)
+[Mission 7 — Networking](mission-07-networking/README.md)
+[Mission 8 — Final Report](mission-08-final-report/README.md)
+
+Each mission will be completed, documented, committed, and pushed separately.
