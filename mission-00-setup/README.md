@@ -23,4 +23,4 @@ Repository: A repository is a place where project files and their changes are st
 
 The folder structure is organised by mission so that each task has its own separate folder which makes the project easy to understand, manage and review.
 
-Difficulties Faced: I faced difficulty in pushing the evidence file into my repository in github. I resolved it with the help of my friend Akshay, who told me about .gitkeep file. With this file whereever our folder is we can find it and push it into repository.
+Difficulties Faced: I faced difficulty in pushing the evidence file into my repository in github. I resolved it with the help of my friend Akshay, who told me about .gitkeep file. With this file where-ever our folder is located, we can find it and push it into repository.
