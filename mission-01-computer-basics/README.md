@@ -29,7 +29,7 @@ Explain how a computer receives input, processes information, produce output and
 ### Task 1.3 - Computer systems around me
 
 | System | Main purpose | One Input | One Output |
-|---|---|---|
+| --- | --- | --- |
 | Smart TV | Watching and Teaching | Writing | Appear on screen |
 | Smart Watch | Tracking Health | Heartbeat | Warns if the rate is low |
 | KENT Cam | Security & Biometrics | Face ID | Attendence |
