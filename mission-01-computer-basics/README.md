@@ -34,7 +34,7 @@ Explain how a computer receives input, processes information, produce output and
 | Smart Watch | Tracking Health | Heartbeat | Warns if the rate is low |
 | KENT Cam | Security & Biometrics | Face ID | Attendence |
 
-## 3. Commands / tools used
+## 3. Commands/tools used
 I used a keyboard and text editor to write and edit the document.
 
 ## 4. My understanding
