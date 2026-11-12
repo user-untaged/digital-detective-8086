@@ -21,7 +21,7 @@ Compiler debugs the entire code while interpreter does it line by line. So compi
 
 ## 3. Commands / tools used
 
-- `python3 hello.py`: ran the program and displayed `Hello from Python`.
+- `python3 hello.py`: ran the program and displayed `Hello from Python`
 
 ## 4. My understanding
 The computer needs software to translate or carry out the instructions in a program. A compiler usually translates code before it runs, while an interpreter works through the instructions as the program runs.
@@ -30,7 +30,7 @@ The computer needs software to translate or carry out the instructions in a prog
 I faced difficulty in making the difference between compiler and interpreter.
 
 ## 6. How I resolved them
-I reffered my class notes.
+I referred my class notes.
 
 ## 7. Evidence / files
 - [`hello.py`](hello.py): the program I ran.
