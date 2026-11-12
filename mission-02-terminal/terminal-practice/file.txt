@@ -1,8 +1,6 @@
 one line
 two lines
 
-Replacing a file's contents syntax: echo "text" > file.txt
-Adding text at end syntax: echo "text" >> file.txt
-Copying a file: cp filename1.txt filename2.txt (it copies content in filename1 to filename2)
-Moving a file: mv filename1.txt filename2.txt (it moves filename1 to filename2)
+
+
 
