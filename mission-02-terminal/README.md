@@ -59,7 +59,7 @@ I checked my current location and directory contents, created practice files, ad
 I understood about different CLI commands, what a package manager is and importance of pipe symbol.
 
 ## 5. Difficulties faced
-At first, I was unsure about ls -h,ls -lah|head and ls -lah, these commands and also don't know that Homebrew is also called as brew. 
+At first, I was unsure about ls -h, ls -lah | head and ls -lah, these commands and also don't know that Homebrew is also called as brew. 
 
 ## 6. How I resolved them
 I took the help of my chatgpt to learn about the unknown commands.
