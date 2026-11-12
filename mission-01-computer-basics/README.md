@@ -28,9 +28,13 @@ Explain how a computer receives input, processes information, produce output and
 
 ### Task 1.3 - Computer systems around me
 
-- ATM — takes my card and gives cash or account information.
-- Traffic lights — use signals to control traffic.
-- Smart TV — plays shows using a remote control.
+
+| System | Main purpose | One Input | One Output |
+| --- | --- | --- | --- |
+| Smart TV | Watching and Teaching | Writing | Appear on screen |
+| Smart Watch | Tracking Health | Heartbeat | Warns if the rate is low |
+| KENT Cam | Security & Biometrics | Face ID | Attendence |
+
 
 ## 3. Commands/tools used
 I used a keyboard and text editor to write and edit the document.
