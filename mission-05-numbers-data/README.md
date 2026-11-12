@@ -28,3 +28,44 @@ Convert decimal, binary and hexadecimal values, verify results with python, buil
 | hex(10) | '0xa'| Yes |
 | int('1F', 16) | 31 | Yes |
 | hex(int('1111', 2))[2:].upper() | 'F' | Yes |
+
+### Task 5.3 - Build a small number converter
+
+
+### Task 5.4 - How is text stored?
+### Number converter
+I ran `number_converter.py` with three positive values.
+
+| Input | Binary output | Hexadecimal output |
+|---:|---:|---:|
+| 13 | `1101` | `D` |
+| 25 | `11001` | `19` |
+| 42 | `101010` | `2A` |
+
+The program uses `input()` to read what I type and `int()` to turn it into a whole number. `bin()` converts it to binary, and `hex()` converts it to hexadecimal. The program removes the `0b` or `0x` prefix from the display; it also makes the hexadecimal letters uppercase.
+
+### Text encoding
+- Uppercase `A` has ASCII decimal code `65`.
+- Lowercase `a` has ASCII decimal code `97`.
+- A computer needs an encoding standard to store characters as numbers and read them consistently. The rupee sign (`₹`) is an example of a character that is not part of basic ASCII; UTF-8 can represent it.
+
+
+## 3. Commands / tools used
+- `python3`: opened for the conversion checks
+- `python3 number_converter.py`: ran the converter from this file
+
+## 4. My understanding
+How to convert between different forms of numbers (decimal, binary, hexadecimal). Python's conversion functions helped me check the answers, and the converter uses those functions to display the binary and hexadecimal forms of a decimal number.
+
+## 5. Difficulties faced
+I found it difficult to verify the conversions using python.
+
+## 6. How I resolved them
+With the help of my friend and AI, I learnt and verified.
+
+## 7. Evidence / files
+- [`number_converter.py`](mission-05-numbers-data/number_converter.py): the working converter
+
+## 8. Commit details
+Commit message: `Build number converter and practice data representation`
+Status: Committed and pushed.
