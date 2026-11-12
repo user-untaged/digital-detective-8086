@@ -16,3 +16,9 @@ Mission Index
 [Mission 8 — Final Report](mission-08-final-report/README.md)
 
 Each mission will be completed, documented, committed, and pushed separately.
+
+## My Learning
+
+- I learnt about CLI commands.
+- I also learnt about how to modify files and folders.
+- I extended my learning on how git and github works.
