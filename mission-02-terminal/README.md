@@ -25,18 +25,18 @@ I checked my current location and directory contents, created practice files, ad
 ### Task 2.2 
 
 - **What is the difference between replacing a file's contents and adding text to the end?**
-    Replacing a file's contents syntax: echo "text" > file.txt
-    Adding text at end syntax: echo "text" >> file.txt
+    - Replacing a file's contents syntax: echo "text" > file.txt
+    - Adding text at end syntax: echo "text" >> file.txt
 
 - **What is the difference between copying and moving a file?** 
-    Copying a file: cp filename1.txt filename2.txt (it copies content in filename1 to filename2)
-    Moving a file: mv filename1.txt filename2.txt (it moves filename1 to filename2)
+    - Copying a file: cp filename1.txt filename2.txt (it copies content in filename1 to filename2)
+    - Moving a file: mv filename1.txt filename2.txt (it moves filename1 to filename2)
 
 - **What information does the current-directory display provide?** 
-    PWD provide us the information about the path of the folder we are currently in.
+    - PWD provide us the information about the path of the folder we are currently in.
 
 - **Why is a directory listing useful?** 
-    Directory-listing is useful operation to list all the files and folders in the current directory.
+    - Directory-listing is useful operation to list all the files and folders in the current directory.
 
 ### Task 2.3
 
@@ -47,12 +47,12 @@ I checked my current location and directory contents, created practice files, ad
 - ls -lah : include hidden files and readable file sizes
 
 - ls -lah | head : output of a detailed listing to a command that displays only the first few lines.
-- **Pipe symbol (|)** It sends the left command's output as input to the command on the right. 
+- **Pipe symbol (|) :** It sends the left command's output as input to the command on the right. 
 
 ### Task 2.4
 
 - Homebrew 7.0.13 
-- ca-certificates,fortune,lolcat,ruby,telnet,cowsay,libyaml,openssl@3,sl,tree
+- ca-certificates, fortune, lolcat, ruby, telnet, cowsay, libyaml, openssl@3, sl, tree
 - A package manager is a tool that helps users manage software. It makes it easier to install, update, and remove programs through Terminal. In macOS, Homebrew is a commonly used package manager. 
 
 ## 4. My understanding
