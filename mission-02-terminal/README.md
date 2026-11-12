@@ -65,7 +65,7 @@ At first, I was unsure about ls -h, ls -lah | head and ls -lah, these commands a
 I took the help of my chatgpt to learn about the unknown commands.
 
 ## 7. Evidence / files
-- `terminal-practice/file.txt` and `terminal-practice/backup.txt`: the two-line file and it's backup
+- `mission-02-terminal/terminal-practice/file.txt` and `mission-02-terminal/terminal-practice/backup.txt`: the two-line file and it's backup
 - [`mission-02-terminal/README.md`](mission-02-terminal/README.md): notes about the command results
 
 ## 8. Commit details
