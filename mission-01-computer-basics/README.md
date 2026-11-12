@@ -1,7 +1,7 @@
 # Mission 1 — Know your computer
 
 ## 1. Task / objective
-Explain how a computer receives input, processes information, produce output and stores results. Identify hardware, software and computer-based systems.
+Explain how a computer receives input, processes information, produce output and stores results. Identify hardware, software and embedded systems.
 
 ## 2. Work completed
 
@@ -27,7 +27,6 @@ Explain how a computer receives input, processes information, produce output and
 | Disk utility | Software | Utility software | Manages disks |
 
 ### Task 1.3 - Computer systems around me
-
 
 | System | Main purpose | One Input | One Output |
 | --- | --- | --- | --- |
