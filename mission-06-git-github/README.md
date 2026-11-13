@@ -56,7 +56,3 @@ I followed the steps in order with the help of my friend.
 ## 8. Commit details
 Commit message: `Complete Git and GitHub collaboration mission`
 Status: Committed and pushed
-
-
-
-
