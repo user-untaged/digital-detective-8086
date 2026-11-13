@@ -1,4 +1,4 @@
-# digital-detective-8086THE DIGITAL DETECTIVE 
+# digital-detective-8086
 The Digital Detective
 
 This project is part of my Diwali Independent Learning Assignment.
