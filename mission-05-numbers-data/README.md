@@ -22,7 +22,7 @@ Convert decimal, binary and hexadecimal values, verify results with python, buil
 | Expression | Result | Match? |
 |---|---|---|
 | bin(13) | '0b1101' | Yes |
-| bin(25) | '0b11001' | Yes |
+| bin(25)[2:] | '11001' | Yes |
 | int('1010', 2) | 10 | Yes |
 | int('1101', 2) | 13 | Yes |
 | hex(10) | '0xa'| Yes |
@@ -31,23 +31,20 @@ Convert decimal, binary and hexadecimal values, verify results with python, buil
 
 ### Task 5.3 - Build a small number converter
 
+The python code is in the file 'number_converter.py'.
 
-### Task 5.4 - How is text stored?
-### Number converter
-I ran `number_converter.py` with three positive values.
-
-| Input | Binary output | Hexadecimal output |
-|---:|---:|---:|
+| Test number | Binary output | Hexadecimal output |
+|---|---|---|
 | 13 | `1101` | `D` |
 | 25 | `11001` | `19` |
 | 42 | `101010` | `2A` |
 
-The program uses `input()` to read what I type and `int()` to turn it into a whole number. `bin()` converts it to binary, and `hex()` converts it to hexadecimal. The program removes the `0b` or `0x` prefix from the display; it also makes the hexadecimal letters uppercase.
+### Task 5.4 - How is text stored?
 
-### Text encoding
-- Uppercase `A` has ASCII decimal code `65`.
-- Lowercase `a` has ASCII decimal code `97`.
-- A computer needs an encoding standard to store characters as numbers and read them consistently. The rupee sign (`₹`) is an example of a character that is not part of basic ASCII; UTF-8 can represent it.
+- `A` has `65` as a ASCII decimal code 
+  `a` has `97` as a ASCII decimal code
+- A computer needs an encoding standard to store characters as numbers and read them consistently. 
+- The rupee sign (`₹`) is not part of basic ASCII.(UTF-8 can represent it) 
 
 
 ## 3. Commands / tools used
@@ -55,7 +52,7 @@ The program uses `input()` to read what I type and `int()` to turn it into a who
 - `python3 number_converter.py`: ran the converter from this file
 
 ## 4. My understanding
-How to convert between different forms of numbers (decimal, binary, hexadecimal). Python's conversion functions helped me check the answers, and the converter uses those functions to display the binary and hexadecimal forms of a decimal number.
+How to convert between different forms of numbers (decimal, binary, hexadecimal). Python's conversion functions helped me check the answers.
 
 ## 5. Difficulties faced
 I found it difficult to verify the conversions using python.
