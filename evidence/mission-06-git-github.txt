@@ -1,0 +1,7 @@
+Mission 6 GitHub evidence
+
+Pull Request #1: https://github.com/user-untaged/digital-detective-8086/pull/1
+Status recorded in the Mission 6 README.md: Merged
+
+The root README contains the “My Learning” section added for the branch exercise. 
+The Mission 6 README includes the Git workflow and command glossary.
