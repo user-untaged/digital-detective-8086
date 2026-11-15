@@ -1,0 +1,15 @@
+Mission 8 - Final review evidence
+
+The mission status table and final review are recorded in mission-08-final-report/README.md . 
+
+Mission evidence files:
+- evidence/mission-00-setup.txt
+- evidence/mission-01-computer-basics.txt
+- evidence/mission-02-terminal.txt 
+- evidence/mission-03-OS.txt
+- evidence/mission-04-programs.txt
+- evidence/mission-05-numbers-data.txt
+- evidence/mission-06-git-github.txt
+- evidence/mission-07-networking.txt
+
+The repository URL is https://github.com/user-untaged/digital-detective-8086/blob/
