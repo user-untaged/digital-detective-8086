@@ -20,7 +20,7 @@ Review the complete repository, make the root README useful to a visitor, verify
 |evidence|Completed|Optional privacy-safe screenshots or selected outputs|
 
 
-Repository link: https://github.com/user-untaged/digital-detective-8086/blob/main/mission-08-final-report/ 
+Repository link: https://github.com/user-untaged/digital-detective-8086/
 
 ## 3. Commands / tools used
 - `git status -sb`: checked my branch and whether it is up to date or not
