@@ -42,25 +42,30 @@ The python code is in the file 'number_converter.py'.
 ### Task 5.4 - How is text stored?
 
 - `A` has `65` as a ASCII decimal code 
-  `a` has `97` as a ASCII decimal code
+- `a` has `97` as a ASCII decimal code
 - A computer needs an encoding standard to store characters as numbers and read them consistently. 
-- The rupee sign (`₹`) is not part of basic ASCII.(UTF-8 can represent it) 
+- The rupee sign (`₹`) is not part of basic ASCII. (UTF-8 can represent it) 
 
 
 ## 3. Commands / tools used
+
 - `python3`: opened for the conversion checks
 - `python3 number_converter.py`: ran the converter from this file
 
 ## 4. My understanding
+
 How to convert between different forms of numbers (decimal, binary, hexadecimal). Python's conversion functions helped me check the answers.
 
 ## 5. Difficulties faced
+
 I found it difficult to verify the conversions using python.
 
 ## 6. How I resolved them
+
 With the help of my friend and AI, I learnt and verified.
 
 ## 7. Evidence / files
+
 - [`number_converter.py`](mission-05-numbers-data/number_converter.py): the working converter
 
 ## 8. Commit details
