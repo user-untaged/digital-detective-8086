@@ -1,0 +1,12 @@
+Mission 2 - privacy-safe command notes
+
+File practice
+- I added two lines to file.txt. Both lines were still there when I displayed the file.
+- The backup file contains the same two lines.
+- `ls` showed the regular files. `ls -lah` also showed the hidden file and detailed file information.
+- The permission letters for the practice text file were `rw-r--r--`. The owner can read and write it, but can't execute.
+- The pipe command `ls -lah | head -n 5` displayed only the first five lines of the detailed listing.
+
+Package manager check
+- Homebrew version: 7.0.13 
+- I did not install or remove any software
