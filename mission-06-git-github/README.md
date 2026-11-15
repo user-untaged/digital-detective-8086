@@ -23,39 +23,43 @@ I used the `update-about` branch to add a “My Learning” section to the root 
 - Pull Request: [#1 - Add project overview and mission links](https://github.com/user-untaged/digital-detective-8086/pull/1)
 - Status: Merged
 
-A branch gives me a separate place to work on changes. A Pull Request lets me show those changes and ask for review before they are merged into the main branch.
+### Task 6.3 - Create a pull request
 
-### Git command glossary
+- Branch: Gives me a separate place to work on the changes
+- Pull Request: Show me those changes and ask for review before they are merged into the main branch
+
+### Task 6.4 - Build your git command glossay
 
 | Operation | Command | What it means |
 |---|---|---|
-| Initialize a repository | `git init` | Start tracking a project with Git. |
-| Check status | `git status` | See changed, staged, and untracked files. |
-| Stage changes | `git add README.md` | Choose a file's changes for the next commit. |
-| Commit changes | `git commit -m "message"` | Save staged changes in the local history with a short description. |
-| View history | `git log --oneline` | See earlier commits. |
-| Create or list branches | `git branch name` / `git branch` | Create a branch or list the branches. |
-| Switch branches | `git switch name` | Move to another branch. |
-| Publish changes | `git push -u origin name` | Send a branch and its commits to GitHub. |
-| Retrieve remote changes | `git pull origin main` | Get changes from the remote `main` branch and bring them into the current branch. |
+| Initialize a repository | `git init` | Initializing a project with Git |
+| Check status | `git status` | See changed, staged, and untracked files |
+| Stage changes | `git add README.md` | Choose a file's changes for the next commit |
+| Commit changes | `git commit -m "message"` | Save staged changes in the local Git with a short description |
+| View history | `git log --oneline` | See earlier changes (history) |
+| Create or list branches | `git branch name` / `git branch` | Create a branch or list the branches |
+| Switch branches | `git switch name` | Move to another branch |
+| Publish changes | `git push -u origin name` | Send a branch and its commits to GitHub |
+| Retrieve remote changes | `git pull origin main` | Get changes from the remote `main` branch and bring them into the current branch |
 
-## 3. Commands / tools used
-- `git status` - checked which files had changes.
-- `git add` - staged selected changes.
-- `git commit` - recorded changes in history.
-- `git log --oneline` - viewed the commit history.
-- `git branch -a` - viewed local and remote branches.
-- `git push` - published commits to GitHub.
-- GitHub Pull Requests - reviewed and merged Pull Request #1.
+### Commands / tools used
+
+- `git status` - checked which files had changes
+- `git add` - staged selected changes
+- `git commit` - recorded changes in history
+- `git log --oneline` - viewed the commit history
+- `git branch -a` - viewed local and remote branches
+- `git push` - published commits to GitHub
 
 ## 4. My understanding
-Git keeps a history of my project. I stage the changes I want, then commit them to save a version. A branch keeps work separate, and a Pull Request lets people review it before it is merged. GitHub stores the remote copy so I can share changes with others.
+- Git: Keeps a history of my project. I stage the changes I want, then commit them to save the version.
+- Branch: Keeps work separate and a pull request lets people review it before it is merged. GitHub stores the remote copy so I can share changes with others.
 
 ## 5. Difficulties faced
-At first, I mixed up staging, committing, branches, and Pull Requests.
+I faced difficulty in Pull Requests.
 
 ## 6. How I resolved them
-I followed the steps in order: check the status, stage the selected file, commit it, and push the branch. I used Pull Request #1 to review the README change before it was merged.
+I followed the steps in order notes down in my notes and with the help of my friend, I did it.
 
 ## 7. Evidence / files
 - Root [`README.md`](digital-detective-8086/README.md): contains the “My Learning” section
