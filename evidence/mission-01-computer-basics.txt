@@ -1,0 +1,10 @@
+Mission 1 - evidence
+
+The completed tables are in mission-01-computer-basics/README.md
+
+IPOS example: (saving a document) with keyboard input, CPU and memory processing, screen output, and storage-drive saving.
+
+Hardware examples in the README: keyboard, screen
+Software examples in the README: operating system, text editor
+
+Computer embedded systems in the README.md: ATM, traffic lights and smart TV
