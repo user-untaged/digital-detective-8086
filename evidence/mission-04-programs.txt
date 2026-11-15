@@ -1,0 +1,8 @@
+Mission 4 - evidence
+
+Command: python3 mission-04-programs/hello.py
+
+Observed output:
+Hello from Python
+
+The source program is mission-04-programs/hello.py
